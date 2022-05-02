@@ -1,0 +1,44 @@
+只考虑基础四项：
+决策树
+(4 factors)2011Decision Tree Score: 0.5441
+(4 factors)2012Decision Tree Score: 0.4194
+(4 factors)2013Decision Tree Score: 0.3963
+(4 factors)2014Decision Tree Score: 0.4019
+(4 factors)2015Decision Tree Score: 0.4145
+(4 factors)2016Decision Tree Score: 0.3928
+(4 factors)2017Decision Tree Score: 0.5784
+(4 factors)2018Decision Tree Score: 0.4812
+(4 factors)2020Decision Tree Score: 0.5002
+
+朴素贝叶斯
+(4 factors)2011Naive Bayes Score: 0.4096
+(4 factors)2012Naive Bayes Score: 0.3464
+(4 factors)2013Naive Bayes Score: 0.3443
+(4 factors)2014Naive Bayes Score: 0.3412
+(4 factors)2015Naive Bayes Score: 0.3454
+(4 factors)2016Naive Bayes Score: 0.3601
+(4 factors)2017Naive Bayes Score: 0.3875
+(4 factors)2018Naive Bayes Score: 0.4051
+(4 factors)2020Naive Bayes Score: 0.3601
+
+考虑九项
+决策树
+(9 factors)2011Decision Tree Score: 0.9919
+(9 factors)2012Decision Tree Score: 0.9923
+(9 factors)2013Decision Tree Score: 0.9905
+(9 factors)2014Decision Tree Score: 0.9926
+(9 factors)2015Decision Tree Score: 0.9909
+(9 factors)2016Decision Tree Score: 0.9888
+(9 factors)2017Decision Tree Score: 0.9961
+(9 factors)2018Decision Tree Score: 0.9965
+(9 factors)2020Decision Tree Score: 0.9930
+朴素贝叶斯
+(9 factors)2011Naive Bayes Score: 0.4145
+(9 factors)2012Naive Bayes Score: 0.3861
+(9 factors)2013Naive Bayes Score: 0.3514
+(9 factors)2014Naive Bayes Score: 0.3464
+(9 factors)2015Naive Bayes Score: 0.3485
+(9 factors)2016Naive Bayes Score: 0.3640
+(9 factors)2017Naive Bayes Score: 0.3977
+(9 factors)2018Naive Bayes Score: 0.4068
+(9 factors)2020Naive Bayes Score: 0.3815
